@@ -1,0 +1,14 @@
+{
+  "name": "webcolorsapi",
+  "version": "1.0.0",
+  "description": "bonus exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zoe",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
